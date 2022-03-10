@@ -27,7 +27,7 @@ def logo():
 
 {❤} Instagram : Fikritampan
 
-=================SELAMAT DATANG BOS KUH===============\n')
+
 
 def login(__widiya__):
     os.system('rm -rf token.txt');os.system('clear');logo();token = input('[•] Masukkan Token :\n\n')
